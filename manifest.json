@@ -1,0 +1,23 @@
+{
+    "short_name": "Treender",
+    "name": "Treender: find trees near you",
+    "description": "Find trees near you",
+    "icons": [
+        {
+            "src": "/assets/assets/images/ic_launcher_transparent.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/assets/assets/images/ic_launcher_transparent.svg",
+            "type": "image/svg+xml",
+            "sizes": "192x192"
+        }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#0F1617",
+    "theme_color": "#0F1617",
+    "display": "standalone",
+    "scope": "/"
+}

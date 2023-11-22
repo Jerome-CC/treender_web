@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 662 662"
+   version="1.1"
+   id="svg1"
+   width="662"
+   height="662"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
+  <path
+     d="M 150,107 H 662 V 555 H 150 L 0,331 Z M 473.8,277.5 C 469.3,270.9 461.9,267 454,267 c -7.9,0 -15.4,3.9 -19.8,10.5 l -87,127.6 -26.5,-33.1 c -4.6,-5.7 -11.5,-9 -18.7,-9 -7.2,0 -14.2,3.3 -18.7,9 l -64,80 c -5.8,7.2 -6.9,17.1 -2.9,25.4 4,8.3 12.4,13.6 21.6,13.6 h 96 32 208 c 8.9,0 17.1,-4.9 21.2,-12.8 4.1,-7.9 3.6,-17.4 -1.4,-24.7 z M 262,267 c 26.50969,0 47.99998,-21.49033 47.99998,-48 0,-26.50967 -21.49029,-48 -47.99998,-48 -26.50969,0 -47.99998,21.49033 -47.99998,48 0,26.50967 21.49029,48 47.99998,48 z"
+     id="path1"
+     style="fill:#000000" />
+</svg>

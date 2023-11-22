@@ -1,0 +1,11 @@
+[
+    {
+        "origin": [
+            "*"
+        ],
+        "method": [
+            "get"
+        ],
+        "maxageseconds": 3600
+    }
+]
